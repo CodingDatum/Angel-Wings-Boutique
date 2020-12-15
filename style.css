@@ -88,6 +88,9 @@ footer{
     line-height: 2;
     padding:20px;
 }
+section{
+    padding-top: 30px;
+}
 
 /*********************************** CLASSES ***********************************/
 .container-heading{
